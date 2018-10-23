@@ -1,0 +1,14 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/bin/Debug/netcoreapp2.1/CityInfoAPI.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/bin/Debug/netcoreapp2.1/CityInfoAPI.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/bin/Debug/netcoreapp2.1/CityInfoAPI.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/bin/Debug/netcoreapp2.1/CityInfoAPI.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/bin/Debug/netcoreapp2.1/CityInfoAPI.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.RazorAssemblyInfo.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.RazorAssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.RazorTargetAssemblyInfo.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CityInfoAPI/CityInfoAPI/obj/Debug/netcoreapp2.1/CityInfoAPI.pdb
